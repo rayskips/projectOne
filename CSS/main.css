@@ -4,6 +4,7 @@
   Width: 100%;
   	font-size:20px;
   padding: 15px;
+  font-family: 'Lobster', cursive;
 }
 
 .photo-of-me{
@@ -63,6 +64,7 @@ h3{
   text-align: center;
   padding:10px;
   margin-bottom:15px;
+  font-family: 'Lobster', cursive;
 }
 
 .fav-book{
