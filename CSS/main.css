@@ -47,6 +47,11 @@ border-width: 1px;
   width:49%;
   display: inline-block;
 }
+
+li{
+  list-style: none;
+  font-style: italic;
+}
 p{
   font-size: 12pt;
   text-align: center;
