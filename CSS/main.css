@@ -1,16 +1,10 @@
+
 .header{
   background: Honeydew;
   text-align: center;
   Width: 100%;
   	font-size:20px;
   padding: 15px;
-  
-}
-h1 {
-  text-align: center;
-  padding:10px;
-  margin-bottom:15px;
-  font-family: 'Lobster', cursive;
 }
 
 .photo-of-me{
@@ -24,24 +18,24 @@ border-width: 1px;
 
 
 /* BODY SECTION*/
-.goals {
+.Goals {
   text-align: center;
   padding: 10px;
   font-size: 12pt;
+  width:60%;
   margin: auto;
-  width: 80%;
 }
 
 .container{
   text-align: center;
   margin: auto;
   width:80%;
-
+  
 }
 .col{
  display: inline-block;
- vertical-align: top;
-
+  vertical-align: top;
+ 
 }
 .food{
 	width:200px;
@@ -52,32 +46,30 @@ border-width: 1px;
   margin: auto;
 }
 .fav-meals{
-  width:45%;
-  display: inline-block;
+  width:49%;
+  display: inline-block; 
 }
 
-.ingredients{
+li{
   list-style: none;
   font-style: italic;
- 
 }
 p{
   font-size: 12pt;
   text-align: center;
   padding-bottom:10px;
   margin-left:40px;
-  }
+}
 h3{
   text-align: center;
   padding:10px;
   margin-bottom:15px;
-  font-family: 'Lobster', cursive;
 }
 
 .fav-book{
-  width:45%;
+  width:49%;
   display: inline-block;
-}
+}  
 .book{
   width:215px;
   display:block;
@@ -86,3 +78,5 @@ h3{
 border-width: 1px;
   margin: auto;
 }
+
+  
